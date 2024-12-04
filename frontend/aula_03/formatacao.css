@@ -1,0 +1,36 @@
+body {
+    max-width: 600px;
+    height: 100vh;
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+    background: #121212;
+    color: white
+}
+
+h1 {
+    color: #EA4F0D; 
+    text-align: center; 
+}
+
+h2 {
+    color: #EA4F0D; 
+    text-decoration: underline; 
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6; 
+    text-align: justify; 
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    border-radius: 10px; 
+}
